@@ -1,0 +1,61 @@
+#container {
+    width: 970px;
+    height: auto;
+    background: #D4D1B2;
+}
+
+#github {
+    display: inline-block;
+    width: 92px;
+    height: 54px;
+    position: relative;
+    right: -276px;
+    bottom: -23px;
+}
+
+h1 {
+    color: black;
+    display: inline-block;
+    text-align: center;
+    margin: 2px;
+    position: relative;
+    right: -274px;
+    padding-bottom: 33px;
+    bottom: -23px;
+}
+
+#catninja {
+    display: inline-block;
+    width: 100px;
+    height: 60px;
+    float: right;
+    position: relative;
+    right: 231px;
+    bottom: -20px
+}
+
+#column1 {
+    width: 645px;
+    display: inline-block;
+    position: relative;
+    right: -148px;
+    -webkit-column-count: 5;
+    /* Chrome, Safari, Opera */
+    -moz-column-count: 5;
+    /* Firefox */
+    column-count: 5;
+    -webkit-column-gap: 20px;
+    /* Chrome, Safari, Opera */
+    -moz-column-gap: 20px;
+    /* Firefox */
+    column-gap: 20px;
+}
+
+.catpics {
+    background: #F86772;
+    border: 3px solid black;
+    width: 120px;
+    height: 120px
+}
+
+#7FB5E9
